@@ -484,7 +484,7 @@ body{
         z-index: 88888;
         top: 5rem;
         position: fixed;
-        right: 14rem;
+        right: 26.5rem;
         border: 0;
         font-size: 3rem;
         cursor: pointer;
@@ -1154,16 +1154,16 @@ body{
     .feature-green img{
         margin-top: -10rem;
         right: 17rem;
-        width: 70%;
+        width: 50%;
     }
 }
 
 
 @media (min-width: 59em){
     .feature-green img{
-        margin-top: -15rem;
+        margin-top: -10rem;
         right: 40rem;
-        width: 50%;
+        width: 30%;
     }
 }
 
